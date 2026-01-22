@@ -20,9 +20,3 @@ Clustering helps designers understand different player types and improve:
 - K-Means clustering (k=3)
 - PCA visualization for cluster separation
 
-## Run
-
-```bash
-pip install -r requirements.txt
-python run_pipeline.py
-```
